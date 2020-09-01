@@ -1,12 +1,13 @@
-package com.neo;
+package com.bookcode;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class HelloApplication {
+public class SpringbootHelloworldsApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HelloApplication.class, args);
+		SpringApplication.run(SpringbootHelloworldsApplication.class, args);
 	}
+
 }
