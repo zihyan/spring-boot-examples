@@ -7,7 +7,7 @@ import org.springframework.boot.web.servlet.ServletComponentScan;
 import org.springframework.boot.web.servlet.ServletRegistrationBean;
 import org.springframework.context.annotation.Bean;
 
-//@SpringBootApplication
+@SpringBootApplication
 @ServletComponentScan
 public class SpringbootHelloworldsApplication {
 //	@Bean
